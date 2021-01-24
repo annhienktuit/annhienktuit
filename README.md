@@ -1,1 +1,1 @@
-[![annhienktuit](dino.gif)](https://j2team.dev/?utm_source=github&utm_medium=github_profile)
+[![annhienktuit](dog.gif)](https://www.linkedin.com/in/annhien-uit/)
