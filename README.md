@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annhienktuit)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annhienktuit)](https://github.com/annhienktuit)
   
   </div>
   
