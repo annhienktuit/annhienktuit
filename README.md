@@ -4,6 +4,10 @@
 </p>
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=annhienktuit)](https://github.com/annhienktuit)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annhienktuit)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
+  
+
+  
+
